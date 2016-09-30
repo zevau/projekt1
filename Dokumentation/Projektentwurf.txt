@@ -1,0 +1,13 @@
+=======================================
+=== Projektentwurf, v_1, 2016-09-30 ===
+=======================================
+
+- Das Programm ist ein Aufbau-Simulationsspiel.
+- Der Nutzer registriert sich um eine Spielfigur zu übernehmen, die er über den Zeitraum des Spiels steuert.
+- Der Nutzer schlüpft in die Rolle eines Dorfbewohners im Mittelalter. Seine Aufgaben werden es sein, sich selbst und seine Familie zu versorgen, dafür muss er möglicherweise mit anderen Spielern, also Dorfbewohnern, zusammenarbeiten.
+- Zu Beginn erhält ein Spieler Nötiges zur Selbstversorgung. Im Laufe des Spiels entwickelt er seine Fähigkeiten und baut seinen Besitz aus, um sich zu spezialisieren und seinen Lebensunterhalt effizienter zu bestreiten.
+- Der Alltag läuft auch ohne Anwesenheit des Spielers. (Er muss also nicht jede Aktion aktiv steuern)
+- Dörfer werden von mehreren Spielern besiedelt, die sich austauschen können.
+- Die Entwicklung der Spielfiguren soll frei geschehen, jedes Dorf soll sich allein durch das interagieren der Spieler entwickeln.
+- Das Spiel wird im Browser gespielt, es soll mit einfachsten Eingabemöglichkeiten gespielt werden.
+- Spielfiguren werden altern und sterben, das Dorf wird weiter bestehen.
