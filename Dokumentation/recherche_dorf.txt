@@ -1,0 +1,45 @@
+Das Spiel „Bewohner eines mittelalterlichen Dorfs“
+
+*** Kurzbeschreibung:
+
+Jeder Nutzer bzw. Spieler schlüpft in die Rolle eines Bewohners eines mittelalterlichen Dorfs, dort soll er leben, ein Handwerk ausüben, sterben. Doch wie sieht so ein mittelalterliches Dorf genau aus?
+
+In Mitteleuropa haben sich Dorfstrukturen erst nach dem Ende der Völkerwanderung etabliert. Vorher, also vor dem Frühmittelalter, haben sich Stämme und Familien nur für begrenzte Zeit an einem Ort niedergelassen, nämlich solange, bis das bewirtschaftete Ackerland nicht mehr ertragreich war. Erst durch die Einführung der Mehrfelderwirtschaft, insbesondere der Dreifelderwirtschaft, konnten längerfristige Siedlungen realisiert werden. Zunächst herrschte nur wenig Arbeitsteilung in den Dörfern. Höfe dienten also hauptsächlich der Selbstversorgung. Um den Alltag des Dorfbewohners zu gestalten, benötigen wir also reichlich handwerkliche Tätigkeiten, die der Selbstversorgung dienen. Soll das Spiel dann doch noch mehr vielfalt bieten, können wir mit erlernbarem Handwerk, dass auf diesen Selbstversorgertätigkeiten aufbaut, eine Spezialisierung der Dorfbewohner ermöglichen. Die Landschaft um ein Dorf bestand notwendigerweise aus Wiesen, Wäldern und einem Gewässer, um die Grundversorgung zu betreiben. Daraus ergeben sich zunächst:
+
+*** Tätigkeiten für die Grundversorgung:
+
+1. Wiese → Viehwirtschaft (Weide), Felderwirtschaft (Ackerland)
+2. Wald → Forstwirtschaft, Jagd, Sammelwirtschaft (Pilze, Beeren, etc.)
+3. Wasser → Fischerei, Trinkwasserversorgung
+
+Welches Handwerk lässt sich darauf aufbauend betreiben?
+
+* Auf der Weide:
+Die Viehwirtschaft dient primär der Nahrungsmittelgewinnung, Also Fleisch und Milch außerdem Eier, wenn man Hühner dazu nimmt. Das Zerlegen und Aufbereiten des Fleischs ist ein Handwerk für sich (Fleischer). Wer beispielsweise Rinder züchtet, kann aber auch Leder herstellen (Gerber) und zu Schuhen, Satteln, Taschen, Gürteln etc. verarbeiten (Sattler). Wer Schafe hat, hat auch Wolle, woraus er Stoffe herstellen kann (Weber). 
+
+* Auf dem Acker:
+Hauptsächlich Nahrungsmittel, wie bei der Viehwirtschaft, aber wer neben Getreide, Hülsenfrüchten und Gemüse noch Platz auf seinem Acker hat, könnte auch Flachs für die Produktion von Leinen anbauen. Leinenstoffe eigenen sich natürlich in erster Linie für die Herstellung von Kleidung (Schneider). Aber auch das Getreide selbst kann natürlich weiterverarbeitet werden, zunächst zu Mehl (Müller), dann zu Brot (Bäcker).
+
+* Im Wald:
+Holz als wichtigster Werkstoff bietet eine Vielzahl an Verwertungsmöglichkeiten. Es wird beispielsweise zum Häuserbau (Zimmermann), Möbelbau (Tischler) oder Bogenbau (Bogenbauer) genutzt. In besonders fortschrittlichen Siedlungen gibt es eventuell schon Sägewerke, die Planken für Boote herstellen (Bootsbauer). Holz eignet sich außerdem zum Heizen und wer Schmieden will brauch Holzkohle (Köhler), wenn er keine Stein- oder Braunkohle hat. Bei der Jagd verhält es sich ähnlich wie bei der Viehzucht, was die Weiterverarbeitung angeht, allerdings können erprobte Jäger ihren Bogen (oder ihre Armbrust) beherrschen, wie kein zweiter und damit für den Schutz ihrer Mitmenschen gegen Räuber und Barbaren sorgen! Der Wald hat noch mehr zu bieten: Erfahrene Waldgänger werden die Wirkung mancher Kräuter, Pilzen und Beeren kennen und eventuell den ein oder anderen Kranken heilen können (unter Vorbehalt: Apotheker).
+
+* Am Wasser:
+Das Fischfangen lässt sich mit Netzen, Reusen und Booten zu einem etwas komplexeren Nahrungsmittelhandwerk ausbauen (Fischerei). In sumpfigen Gebieten wächst außerdem das für das in Norddeutschland beliebte Reetdach benötigte Schilfrohr (Dachdecker). In trockengelegten Mooren lässt sich Torf zum Heizen abbauen.
+
+* Was noch?:
+Wer sein Haus nicht mit Lehm oder Holz baut, braucht Steine aus dem Steinbruch (Steinmetz), für Waffen und Werkzeuge (Schmied) wird natürlich Eisen benötigt, welches als Erz aus den umliegenden Gesteinen gewonnen wird (Bergbau).
+
+*** Das Dorf entwickelt sich:
+Aus den ersten Siedlern, die sich zunächst nur selbst versorgten, sind professionelle Handwerker geworden und aus ihrem Dorf wird vielleicht eines Tages eine große Stadt wie Hamburg oder Lübeck! 
+
+
+
+Quellen:
+https://www.leben-im-mittelalter.net/
+wikipedia
+Banished (PC Spiel)
+
+
+
+
+
