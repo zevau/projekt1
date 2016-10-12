@@ -10,3 +10,15 @@
 - Dörfer werden von mehreren Spielern besiedelt, die sich austauschen können.
 - Die Entwicklung der Spielfiguren soll frei geschehen, jedes Dorf soll sich allein durch das interagieren der Spieler entwickeln.
 - Spielfiguren werden altern und sterben, das Dorf wird weiter bestehen.
+
+===================================
+=== Feedback Alpers, 2016-10-12 ===
+===================================
+
+1.) Das sieht nach einer guten Basis aus, auch wenn Sie die Beschreibung noch umarbeiten müssen, um eine Basis für die Ausarbeitung der Struktur zu erhalten.
+
+2.) Einen Kritikpunkt gibt es allerdings:
+- Die Entwicklung der Spielfiguren soll frei geschehen, jedes Dorf soll sich allein durch das interagieren der Spieler entwickeln.
+
+Das steht im Widerspruch zu der Anforderung, dass das Spiel adaptiv sein soll.
+
